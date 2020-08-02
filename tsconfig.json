@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "sourceMap": true,
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "target": "es6",
+    "jsx": "react",
+    "lib": ["dom", "ES2020"]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
