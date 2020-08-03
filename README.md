@@ -7,6 +7,7 @@ A project boiler template using React / TypeScript.
   - react(-dom)
   - typescript
   - webpack
+    - html-webpack-plugin
   - @types/react
   - ts-loader
 
