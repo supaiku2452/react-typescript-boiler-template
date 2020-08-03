@@ -1,3 +1,5 @@
 import React from "react";
 
-export const App = () => <div>Boiler Template.</div>;
+export const App = (): JSX.Element => {
+  return <div>Boiler Template.</div>;
+};

@@ -2,7 +2,6 @@
   "compilerOptions": {
     "alwaysStrict": true,
     "noImplicitAny": true,
-    "noImplicitReturns": true,
     "sourceMap": true,
     "module": "ESNext",
     "esModuleInterop": true,

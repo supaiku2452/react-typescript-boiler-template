@@ -2,6 +2,8 @@
 
 A project boiler template using React / TypeScript.
 
+## minimum libs
+
 - libs
 
   - react(-dom)
@@ -10,6 +12,14 @@ A project boiler template using React / TypeScript.
     - html-webpack-plugin
   - @types/react
   - ts-loader
+
+- lint
+
+  - eslint
+
+- formatter
+
+  - prettier
 
 - scripts
   - `build`
