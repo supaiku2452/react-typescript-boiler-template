@@ -10,7 +10,7 @@
     "build:dev": "webpack --mode=development",
     "build": "webpack --mode=production",
     "format": "prettier --write .",
-    "lint": "eslint . --ext [.ts,.tsx]"
+    "lint": "eslint --ext [.ts,.tsx] ."
   },
   "dependencies": {
     "@types/react": "^16.9.44",

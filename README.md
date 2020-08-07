@@ -25,3 +25,5 @@ A project boiler template using React / TypeScript.
   - `build`
   - `build:dev`
   - `dev`
+  - `fomart`
+  - `lint`
